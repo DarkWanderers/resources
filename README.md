@@ -5,7 +5,7 @@ Please place the resource in its category and add them to this list.
 
 
 * Tutorials/HOW-TOs
-
+  * Create Python Virtual Enviroments 
 
 * Project Planning
 
