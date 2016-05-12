@@ -16,6 +16,8 @@ Please place the resource in its category and add them to this list.
     * http://haayicomp.blogspot.com/2014/06/howto-tp-link-tl-mr3020-pocket-router.html
     * http://hackaday.com/2013/04/29/wifi-pineapple-project-uses-updated-hardware-for-man-in-the-middle-attacks/
     * https://penturalabs.wordpress.com/2013/04/25/blue-for-the-pineapple/
+  * Create a Wifi Pineapple with a Raspberry pi - Fruity Pi
+    * http://www.fruitywifi.com/index_eng.html 
 
 * Tools
 
