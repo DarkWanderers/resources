@@ -15,3 +15,4 @@
 ---
   * MultiScanner a file analysis framework https://github.com/MITRECND/multiscanner/
   * Capture the Flag (Facebook) - https://github.com/facebook/fbctf
+  * An Exploit Dev Swiss Army Knife - https://github.com/ant4g0nist/lisa.py
