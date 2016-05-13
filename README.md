@@ -22,4 +22,5 @@ Please place the resource in its category and add them to this list.
 * Tools
 
 
-* Security Tools
+* Security/Hacking Tools
+  * List - https://github.com/DarkWanderers/resources/blob/master/Secuirty_Hacking_Tools.md 
