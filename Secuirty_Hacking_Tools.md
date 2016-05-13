@@ -9,6 +9,7 @@
 ### Security Tool
 ---
   * ELF File Forensics - https://backtrace.io/blog/blog/2016/04/22/elf-shared-library-injection-forensics/
+  * Vuls: VULnerability Scanner - https://github.com/future-architect/vuls
   
 
 ### Security Frameworks
