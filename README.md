@@ -18,6 +18,7 @@ Please place the resource in its category and add them to this list.
     * https://penturalabs.wordpress.com/2013/04/25/blue-for-the-pineapple/
   * Create a Wifi Pineapple with a Raspberry pi - Fruity Pi
     * http://www.fruitywifi.com/index_eng.html 
+  * Create a Rogue GSM Network - https://evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/
 
 * Tools
 
