@@ -21,6 +21,7 @@ Please place the resource in its category and add them to this list.
   * Create a Rogue GSM Network - https://evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/
   * Bypassing AntiVirus Detection in a few lines of code - http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html
   * Windows Event Log Parsing - https://dfir-blog.com/2016/03/13/how-to-parse-windows-eventlog/ 
+  * Embed a metasploit payload to a .apk - https://techkernel.wordpress.com/2015/12/11/embed-metasploit-payload-in-apk-easily/
   
 * Tools
 
