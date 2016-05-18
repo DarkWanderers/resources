@@ -31,3 +31,7 @@ Please place the resource in its category and add them to this list.
 * Security/Hacking Tools
   * VBad Visual Basic obfuscation tool - https://github.com/Pepitoh/VBad 
   * List - https://github.com/DarkWanderers/resources/blob/master/Secuirty_Hacking_Tools.md 
+  * 
+  
+* Android Resources
+  *  https://github.com/DarkWanderers/resources/blob/master/Android_Resources.md 
