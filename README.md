@@ -10,6 +10,7 @@ Please place the resource in its category and add them to this list.
 
 
 * Learning
+  * How to Secure your passwords Securely in 2016 - https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016 
   * Hands-On Exploitation Tutorials - Vulnerable Hub - https://www.vulnhub.com/
   * Create a Wifi Pineapple with a TP-Link WR703N
     * http://progdave.wikidot.com/notes-on-installing-wifi-pineapple-on-wr703n
