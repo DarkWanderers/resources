@@ -27,6 +27,7 @@ Please place the resource in its category and add them to this list.
   * Embed a metasploit payload to a .apk - https://techkernel.wordpress.com/2015/12/11/embed-metasploit-payload-in-apk-easily/
   
 * Tools
+  * binent : Calulate entropy of a file - https://github.com/yarox24/binent 
 
 
 * Security/Hacking Tools
