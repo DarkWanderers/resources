@@ -34,7 +34,7 @@ Please place the resource in its category and add them to this list.
   * VBad Visual Basic obfuscation tool - https://github.com/Pepitoh/VBad 
   * List - https://github.com/DarkWanderers/resources/blob/master/Secuirty_Hacking_Tools.md
   * Two in One Trojans - https://securelist.com/blog/research/74609/petya-the-two-in-one-trojan/
-  * 
+  * Shellcode Obfuscation x86 - https://breakdev.org/x86-shellcode-obfuscation-part-1/
   
 * Android Resources
   *  https://github.com/DarkWanderers/resources/blob/master/Android_Resources.md 
