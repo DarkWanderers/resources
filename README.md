@@ -21,6 +21,7 @@ Please place the resource in its category and add them to this list.
     * https://penturalabs.wordpress.com/2013/04/25/blue-for-the-pineapple/
   * Create a Wifi Pineapple with a Raspberry pi - Fruity Pi
     * http://www.fruitywifi.com/index_eng.html 
+  * Warberry Pi -  A tactical approach to attacking a network -  https://github.com/secgroundzero/warberry
   * Create a Rogue GSM Network - https://evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/
   * Bypassing AntiVirus Detection in a few lines of code - http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html
   * Windows Event Log Parsing - https://dfir-blog.com/2016/03/13/how-to-parse-windows-eventlog/ 
