@@ -37,5 +37,8 @@ Please place the resource in its category and add them to this list.
   * Two in One Trojans - https://securelist.com/blog/research/74609/petya-the-two-in-one-trojan/
   * Shellcode Obfuscation x86 - https://breakdev.org/x86-shellcode-obfuscation-part-1/
   
+* Security Resources
+  * Darknet - http://www.darknet.org.uk/
+
 * Android Resources
   *  https://github.com/DarkWanderers/resources/blob/master/Android_Resources.md 
