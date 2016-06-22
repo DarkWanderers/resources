@@ -5,7 +5,7 @@ Please place the resource in its category and add them to this list.
 
 * Tutorials/HOW-TOs
   * Create Python Virtual Enviroments https://github.com/DarkWanderers/resources/blob/master/Python_Virtual_Enviroments.md
-  * Cuckoo - Malware Analysis Tool - https://github.com/cuckoosandbox/
+  
 * Project Planning
 
 
@@ -29,7 +29,7 @@ Please place the resource in its category and add them to this list.
   
 * Tools
   * binent : Calulate entropy of a file - https://github.com/yarox24/binent 
-
+  * Cuckoo - Malware Analysis Tool - https://github.com/cuckoosandbox/
 
 * Security/Hacking Tools
   * VBad Visual Basic obfuscation tool - https://github.com/Pepitoh/VBad 
